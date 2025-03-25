@@ -36,7 +36,7 @@ To optimize outreach and effectiveness:
 
 Create state-specific sales task groups to build relationships and tailor messaging based on local trends.
 
-# Reccomendation 2: Focus on CNA, LPN and RN jobs Based on Day of the Week
+# Recommendation 2: Focus on CNA, LPN and RN jobs Based on Day of the Week
 Certified Nursing Assistants (CNA), Licensed Practical Nurses (LPN), and Registered Nurses (RN) consistently log the most hours. The highest demand occurs Monday through Friday, with Wednesday and Thursday standing out as peak days across both states. These are the days when facilities need the most staffing support, making them key targets for sales and recruiting teams. This seems to be a trend accross al 10 target states.
 On the weekends (Saturday and Sunday), there is a noticeable drop in overall hours, especially for administrative roles such as RN and LPN administrators. However, core clinical roles—CNA, LPN, and RN—continue to show strong weekend activity, particularly in California, where weekend shifts remain substantial despite the decline.
 
@@ -78,7 +78,7 @@ These patterns suggest that while weekday staffing should be a primary focus, we
 
 - Tailor weekend staffing strategies to clinical roles only, as administrative needs sharply decline during that time.
 
-# Recomendation 3: Targeting High-Occupancy Facilities
+# Recommendation 3: Targeting High-Occupancy Facilities
 
 To better identify potential staffing needs, I created a new column called Occupancy Rate, which measures how fully a facility's available capacity is being utilized. This was calculated by dividing the average number of residents per day by the number of certified beds for each facility.
 
